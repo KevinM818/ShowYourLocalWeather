@@ -1,0 +1,25 @@
+.well {
+  margin-left: 10px;
+  margin-right: 10px;
+  width: auto;
+  background-color: rgba(245, 245, 245, 0.4);
+}
+
+footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: grey;
+  text-align: center;
+}
+
+a {
+  color: black;
+}
+
+h1, h2, .info {
+  font-weight: bold;
+  color: black;
+}
